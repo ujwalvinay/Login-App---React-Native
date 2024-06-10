@@ -8,13 +8,23 @@
   <!-- Web -->
 </p>
 
-##Introduction
+## Introduction
 <p>
   This is a simple login app created using React Native and Tailwind CSS along with libraires like Reanimated for animation. 
   
-  ##Splash Screen
+  ### Splash Screen
+  <br/><br/>
+  <img src="assets/images/screenshot/splashScreen.jpg" width="400" />
 
-  <img src="assets/images/screenshot/splashScreen.jpg" width="500" />
+  ### Login Screen
+  <br/><br/>
+  <img src="assets/images/screenshot/logIn.jpg" width="400" />
+
+  ### Signup Screen
+  <br/><br/>
+  <img src="assets/images/screenshot/signUp.jpg" width="400" />
+
+  
 </p>
 ## 🚀 How to use
 
