@@ -16,11 +16,11 @@
   <br/><br/>
   <img src="assets/images/screenshot/splashScreen.jpg" width="400" />
 
-  ### Login Screen
+  ### Signup Screen
   <br/><br/>
   <img src="assets/images/screenshot/login.jpg" width="400" />
 
-  ### Signup Screen
+  ### Login Screen
   <br/><br/>
   <img src="assets/images/screenshot/signUp.jpg" width="400" />
 
@@ -28,7 +28,7 @@
 </p>
 ## 🚀 How to use
 
-<p>Install React Native and React Native Re-animated <br/></p>
+<p><br/></br/>Install React Native and React Native Re-animated <br/></p>
 - Run `npx create-expo my-app --example with-reanimated`
 
 - Run `yarn` or `npm install`
@@ -48,7 +48,7 @@
 
 
 ## 📝 Notes
--[`react-native` docs](https://reactnative.dev/)
+- [`react-native` docs](https://reactnative.dev/)
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
 - [`nativewind` docs](https://www.nativewind.dev/)
 - [`react navigation` docs](https://reactnative.dev/docs/navigation)
