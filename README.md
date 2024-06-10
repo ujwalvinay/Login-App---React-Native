@@ -8,6 +8,14 @@
   <!-- Web -->
 </p>
 
+##Introduction
+<p>
+  This is a simple login app created using React Native and Tailwind CSS along with libraires like Reanimated for animation. 
+  
+  ##Splash Screen
+
+  <img src="assets/images/screenshot/splashScreen.jpg" width="500" />
+</p>
 ## 🚀 How to use
 
 <p>Install React Native and React Native Re-animated</p>
@@ -15,6 +23,20 @@
 
 - Run `yarn` or `npm install`
 - Run `yarn start` or `npm run android` to try it out.
+
+<p>Install tailwind CSS for React Native</p>
+>` npm install nativewind`
+>`npx tailwind init`
+
+<p>Install React Native Screens</p>
+>`npx expo install react-native-screens react-native-safe-area-context`
+
+<p>
+  Install React Native Navigate for routing
+</p>
+>`npm install @react-navigation/native`
+>`npm install @react-navigation/native-stack`
+
 
 ## 📝 Notes
 
