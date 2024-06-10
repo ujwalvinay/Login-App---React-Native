@@ -18,7 +18,7 @@
 
   ### Login Screen
   <br/><br/>
-  <img src="assets/images/screenshot/logIn.jpg" width="400" />
+  <img src="assets/images/screenshot/login.jpg" width="400" />
 
   ### Signup Screen
   <br/><br/>
@@ -28,26 +28,28 @@
 </p>
 ## 🚀 How to use
 
-<p>Install React Native and React Native Re-animated</p>
-> `npx create-expo my-app --example with-reanimated`
+<p>Install React Native and React Native Re-animated <br/></p>
+- Run `npx create-expo my-app --example with-reanimated`
 
 - Run `yarn` or `npm install`
 - Run `yarn start` or `npm run android` to try it out.
 
-<p>Install tailwind CSS for React Native</p>
->` npm install nativewind`
->`npx tailwind init`
-
-<p>Install React Native Screens</p>
+<p>Install tailwind CSS for React Native <br/></p>
+>  `npm install nativewind`
+>  `npx tailwind init`
+<p>Install React Native Screens <br/></p>
 >`npx expo install react-native-screens react-native-safe-area-context`
 
 <p>
-  Install React Native Navigate for routing
+  Install React Native Navigate for routing <br/>
 </p>
 >`npm install @react-navigation/native`
 >`npm install @react-navigation/native-stack`
 
 
 ## 📝 Notes
-
+-[`react-native` docs](https://reactnative.dev/)
 - [`react-native-reanimated` docs](https://docs.swmansion.com/react-native-reanimated/)
+- [`nativewind` docs](https://www.nativewind.dev/)
+- [`react navigation` docs](https://reactnative.dev/docs/navigation)
+  
